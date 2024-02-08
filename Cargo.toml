@@ -8,9 +8,9 @@ description = "Generates fake data"
 documentation = "https://github.com/fossair/fossair/blob/main/README.md"
 homepage = "https://github.com/fossair/fossair"
 repository = "https://github.com/fossair/fossair"
-readme = "https://github.com/fossair/fossair/blob/main/README.md"
+readme = "README.md"
 license = "MIT"
-license-file = "https://github.com/fossair/fossair/blob/main/LICENSE"
+license-file = "LICENSE"
 keywords = ["test", "dev"]
 categories = []
 

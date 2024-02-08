@@ -1,7 +1,18 @@
 [package]
 name = "fossair"
 version = "0.1.0"
+authors = ["Rem Petitjean <remi.petitjean@gmail.com>"]
 edition = "2021"
+rust-version = "1.75.0"
+description = "Generates fake data"
+documentation = "https://github.com/fossair/fossair/blob/main/README.md"
+homepage = "https://github.com/fossair/fossair"
+repository = "https://github.com/fossair/fossair"
+readme = "https://github.com/fossair/fossair/blob/main/README.md"
+license = "MIT"
+license-file = "https://github.com/fossair/fossair/blob/main/LICENSE"
+keywords = ["test", "dev"]
+categories = []
 
 
 [lib]
